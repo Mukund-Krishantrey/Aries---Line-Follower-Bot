@@ -43,3 +43,6 @@ Input1, Input2 and EnableA have been used for controlling right wheel direction 
 Output1 and Output2 go to right motor, while Output3 and Output4 to left motor.
 The GND and VCC(12V preferably) were supplied to the motor driver from a battery, and the GND and 5V output were supplied to breadboard circuit as mentioned before.
  
+<p align="center">
+  <img width="750" height="500" src="https://user-images.githubusercontent.com/32802845/54490116-13df1180-48d9-11e9-9920-ac58a92a6650.jpg">
+</p>
